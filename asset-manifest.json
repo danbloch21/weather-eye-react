@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weather-eye-react/static/css/main.48896bd5.chunk.css",
+    "main.js": "/weather-eye-react/static/js/main.559949c8.chunk.js",
+    "main.js.map": "/weather-eye-react/static/js/main.559949c8.chunk.js.map",
+    "runtime-main.js": "/weather-eye-react/static/js/runtime-main.b6b75847.js",
+    "runtime-main.js.map": "/weather-eye-react/static/js/runtime-main.b6b75847.js.map",
+    "static/js/2.ef5d7d7e.chunk.js": "/weather-eye-react/static/js/2.ef5d7d7e.chunk.js",
+    "static/js/2.ef5d7d7e.chunk.js.map": "/weather-eye-react/static/js/2.ef5d7d7e.chunk.js.map",
+    "static/js/3.296f9d67.chunk.js": "/weather-eye-react/static/js/3.296f9d67.chunk.js",
+    "static/js/3.296f9d67.chunk.js.map": "/weather-eye-react/static/js/3.296f9d67.chunk.js.map",
+    "index.html": "/weather-eye-react/index.html",
+    "static/css/main.48896bd5.chunk.css.map": "/weather-eye-react/static/css/main.48896bd5.chunk.css.map",
+    "static/js/2.ef5d7d7e.chunk.js.LICENSE.txt": "/weather-eye-react/static/js/2.ef5d7d7e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6b75847.js",
+    "static/js/2.ef5d7d7e.chunk.js",
+    "static/css/main.48896bd5.chunk.css",
+    "static/js/main.559949c8.chunk.js"
+  ]
+}
